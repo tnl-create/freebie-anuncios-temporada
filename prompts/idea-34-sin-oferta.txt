@@ -1,0 +1,33 @@
+THE NET LAB · Poné el regalo en agenda
+
+1. Descargá la referencia desde la ficha.
+2. Adjuntá la referencia y tus fotografías en la herramienta de imágenes.
+3. Completá producto, marca, promoción y condiciones antes de generar.
+4. Revisá el resultado con tu foto original.
+
+FORMATO: una sola imagen VERTICAL 4:5. No devolver una imagen horizontal aunque la foto de entrada sea horizontal.
+INSUMOS OBLIGATORIOS — NO GENERAR CON TEXTO SOLO
+Adjunto dos imágenes distintas. IMAGEN 1 = REFERENCIA CREATIVA de esta ficha. IMAGEN 2 = FOTOGRAFÍA DE MI PRODUCTO. Si falta cualquiera de ellas, pedila antes de generar. Si el layout requiere más fotos de producto, pedilas también.
+ROL DE CADA IMAGEN: de la IMAGEN 1 conservá el mecanismo creativo, distribución, relaciones de escala, tratamiento tipográfico y recursos gráficos esenciales. No usar sus marcas, logos, productos ni claims; el titular creativo se adapta a mi marca sin perder su función. De la IMAGEN 2 tomá exclusivamente mi producto: forma, color, etiqueta, packaging, estampado y detalles deben conservarse. Nunca intercambies estas funciones.
+DOS VERSIONES DEL MISMO CONCEPTO: mantener el mismo titular creativo, composición y producto. La versión comercial añade porcentaje de descuento o precio real con el mayor peso de lectura, y Navidad o fin de año como identificación breve. La oferta no reemplaza el titular creativo ni elimina el mecanismo de la referencia. No aplicar una nueva plantilla genérica a todas las piezas.
+CRITERIO EDITORIAL: estudiar primero los márgenes, el tamaño relativo del producto, el peso y contraste tipográfico y el espacio vacío de la referencia. Conservar esas relaciones al adaptar la marca. Integrar UNA sola intervención comercial en ese sistema: una línea del titular, un rótulo de interfaz, una anotación o el nodo del diagrama. Eliminar sellos, píldoras y cartelas que no existen en la referencia. Si elegimos porcentaje, no añadir automáticamente precios anterior/actual; si elegimos precio de pack, no añadir porcentaje. Los valores adicionales se admiten solo cuando son necesarios para una comparación o gráfico real. No usar negrita pesada por defecto. La oferta se entiende primero por ubicación y contraste, sin ampliar todos los textos ni aplastar la composición. Reducir contenido antes de comprimir el aire de la referencia.
+ARGUMENTO: elegir una razón de compra principal del brief y expresarla en el titular o el mecanismo visual. La oferta tiene prioridad de lectura, pero no sumar beneficios, prueba social, regalo y urgencia como cuatro argumentos competidores. Usar testimonios únicamente si el usuario adjunta evidencia real y autoriza su uso; nunca fabricarlos. La fecha de entrega o cierre debe estar confirmada. No convertir automáticamente todas las razones de compra en una pieza de descuento.
+TEXTO: usar el titular creativo aportado. Si no hay uno, redactar una frase breve de hasta seis palabras a partir del producto y la ocasión, sin inventar beneficios ni afirmaciones. Pedir la oferta exacta y condiciones; precios solo si se muestran. Si elegimos porcentaje, los precios recibidos sirven para comprobar la cuenta, no para añadir otro bloque comercial. Conservar las condiciones necesarias para que el mensaje sea verdadero. No inventar beneficios ni ampliar rótulos de características a párrafos. No escribir “ejemplo ficticio”, notas de producción, instrucciones, marcas de agua o disclaimers de demostración dentro del anuncio; esas aclaraciones van fuera de la pieza en el recurso.
+PRODUCTO: montaje del original si no es posible preservar sus detalles. No asegurar identidad de píxeles sin verificación. Comparar al terminar la imagen de referencia, el producto original y el resultado. Si se perdió un recurso esencial, corregir antes de entregar.
+
+ESTRATEGIA: Poné el regalo en agenda
+COMPOSICIÓN: Producto grande a la izquierda; seis celdas de calendario a la derecha, cruces manuales en días pasados y un día final destacado. Titular serif al pie.
+FOTOS: Foto frontal del producto y fecha de cierre confirmada.
+RIESGO: No inventar stock ni prometer entrega por correo. Confirmar mes, año, día y modalidad.
+Antes de generar pedir únicamente imágenes obligatorias y mensaje comercial que falten. Elegir un único SKU o variantes confirmadas. No sumar nieve, árboles, regalos envueltos, manos, brillo dorado ni accesorios por defecto. Navidad se comunica mediante el argumento de regalo, no decoraciones genéricas. Mantener las texturas fotográficas del original.
+
+SIN OFERTA: mantener concepto, composición y producto; omitir precios, porcentajes, cierres y urgencia. Conservar el argumento de regalo. Si el calendario no puede conservar sentido sin una fecha comercial, usar fechas de ocasión reales aportadas, no inventar una promoción.
+ESCALA FÍSICA: si la composición muestra una escena en uso, pedir medidas o fotografía real de escala cuando sean necesarias. Si no hay, trabajar con el recorte original como composición gráfica, sin inventar manos ni dimensiones.
+
+DETALLES DE DIRECCIÓN DE ARTE
+- Seis celdas del mismo tamaño y días alineados.
+- Sin fecha límite, cruces de urgencia ni condiciones comerciales en esta versión.
+- Contraste suficiente en las celdas y titular con aire.
+
+AJUSTE EDITORIAL V6
+Conservar producto, fondo y seis celdas. Sustituir fechas comerciales por LUN, MAR, MIÉ, JUE, VIE, SÁB; sin cruces ni última celda destacada. Usar un titular neutral como Tiempo de regalar. Eliminar fecha límite, urgencia y evento.
