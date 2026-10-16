@@ -1,0 +1,1 @@
+[...(window.TNL24_DATA||[]),...(window.TNL24_CHRISTMAS||[])].forEach(s=>{s.reference.image='../'+s.reference.image;if(s.demo)['image','baseImage','source'].forEach(k=>{if(s.demo[k])s.demo[k]='../'+s.demo[k];});(s.validationTests||[]).forEach(t=>{t.image='../'+t.image;t.source='../'+t.source;});});
