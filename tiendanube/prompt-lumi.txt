@@ -1,0 +1,144 @@
+Actuá como analista de mi Tiendanube. Quiero definir qué productos y ofertas conviene promocionar durante CyberMonday y Black Friday para preparar una estrategia publicitaria en Instagram y Facebook mediante Meta Ads.
+
+Trabajá sobre la tienda desde la que te estoy escribiendo y usá únicamente los datos que puedas consultar o que yo te aporte. Diferenciá los datos comprobados, las hipótesis y tus recomendaciones.
+
+El resultado de este análisis se va a usar para crear anuncios con IA a partir de fotografías reales de mis productos. Necesito terminar con una decisión comercial concreta: qué producto anunciar, con qué oferta, para quién y con qué mensaje.
+
+1. ENTENDÉ MI NEGOCIO Y MI OBJETIVO
+
+Antes de recomendar productos u ofertas, revisá qué información tenés disponible y preguntame en una sola tanda los datos indispensables que falten:
+
+- País, moneda y fechas de cada evento.
+- Mi prioridad: generar ganancia, aumentar ventas, conseguir nuevos clientes, aumentar el valor del pedido o liberar stock.
+- Productos o categorías que quiero impulsar o excluir.
+- Promociones previstas y otros descuentos con los que podrían combinarse.
+- Posibilidad y plazo de reposición de stock.
+- Capacidad para preparar pedidos y cumplir las entregas.
+- Presupuesto estimado para publicidad y experiencia previa con campañas, si los tengo definidos.
+- Si voy a dirigir los anuncios a personas nuevas, clientes actuales o ambos.
+- Qué información de costos y margen mínimo necesitás que te aporte.
+
+No vuelvas a pedirme información que ya puedas consultar. Si todavía no definí un objetivo o presupuesto, ayudame a identificar qué decisión podemos tomar y qué queda pendiente.
+
+2. ANALIZÁ LOS PRODUCTOS CANDIDATOS
+
+Usá los últimos 90 días como punto de partida. Si la tienda tiene menos historial, indicá qué período pudiste analizar. Si tenés acceso a datos comparables de eventos anteriores, consideralos y aclaralo.
+
+Revisá, según los datos disponibles:
+
+- Unidades vendidas y evolución de las ventas.
+- Productos con demanda reciente.
+- Productos sin ventas o con poca rotación.
+- Stock disponible y disponibilidad de las variantes.
+- Precios y promociones actuales.
+
+Proponé hasta 3 candidatos y mostralos en una tabla con:
+
+Producto | Ventas del período | Stock disponible | Oportunidad | Limitación o dato pendiente
+
+Diferenciá si el objetivo sería potenciar algo que ya vende o intentar mover stock con poca salida. No supongas que tener mucho stock convierte a un producto en una buena opción para invertir en publicidad.
+
+No confundas facturación con rentabilidad. Tampoco atribuyas las ventas a Instagram, Facebook o campañas específicas si no tenés datos que permitan hacerlo.
+
+3. EVALUÁ COSTOS Y MARGEN ANTES DE PROPONER LA OFERTA
+
+Para los candidatos más relevantes, verificá si contás con:
+
+- Precio de venta y costo del producto.
+- Costos variables aplicables: comisiones, cobro, embalaje, preparación, envío subsidiado y otros gastos.
+- Margen mínimo que quiero conservar.
+- Costos adicionales que genere la promoción.
+- Costo de publicidad por compra, si tengo un dato útil de campañas anteriores.
+
+Si necesitás información adicional después de seleccionar los candidatos, pedímela agrupada.
+
+Explicá qué costos incluís en los cálculos y cuáles faltan. No presentes como ganancia neta un resultado que solo descuenta el costo del producto.
+
+Si no conocemos el costo publicitario por compra, calculá —cuando haya datos suficientes— cuánto podría destinarse a publicidad por pedido conservando el margen mínimo que definimos. Diferenciá ese límite del punto en el que la operación deja de cubrir sus costos.
+
+No inventes costos, impuestos, márgenes ni resultados de publicidad. Si faltan datos, trabajá con escenarios claramente identificados y dejá la recomendación pendiente de validar.
+
+4. COMPARÁ OFERTAS POSIBLES
+
+Evaluá solo las alternativas que tengan sentido para mis productos y mis números:
+
+- Precio promocional.
+- Cupón de descuento.
+- Promoción por cantidad.
+- Pack de productos disponibles.
+- Regalo incluido, si realmente puedo ofrecerlo.
+- Beneficio de envío.
+
+Para cada alternativa relevante, indicá:
+
+Oferta | Beneficio para el cliente | Condiciones | Impacto económico estimado | Ventaja y limitación
+
+Considerá si la oferta es fácil de entender en un anuncio y si el cliente podrá obtenerla con claridad en la tienda.
+
+No supongas que el descuento más alto es la mejor opción. No inventes productos para un pack, regalos, disponibilidad, exclusividad ni urgencia. Tampoco des por hecho que distintas promociones se pueden acumular.
+
+5. ELEGÍ PRODUCTO Y OFERTA PARA CADA EVENTO
+
+Recomendá una combinación principal para CyberMonday y otra para Black Friday. Pueden ser la misma si los datos lo justifican.
+
+Para cada evento, explicá:
+
+- Qué producto o conjunto de productos conviene impulsar.
+- Qué oferta proponés y por qué.
+- Qué datos respaldan la decisión.
+- Qué stock o variantes limitan la propuesta.
+- Qué condiciones y vigencia hay que comunicar.
+- Qué falta confirmar antes de activarla.
+
+Si no hay evidencia suficiente para elegir un ganador, explicá qué alternativas conviene evaluar y cómo tomar la decisión.
+
+6. CONVERTÍ LA DECISIÓN EN UNA BASE PARA ANUNCIOS DE INSTAGRAM Y FACEBOOK
+
+Para cada combinación recomendada, prepará un brief que incluya:
+
+- Producto: nombre y variante que se va a mostrar.
+- Destino: ficha del producto o selección de la tienda a la que debería llevar el anuncio. Usá el enlace real si podés consultarlo; si no, pedímelo.
+- Comprador potencial: para quién puede resultar relevante y en qué necesidad, uso u ocasión se apoya esa hipótesis.
+- Oferta: beneficio exacto y cómo se obtiene.
+- Mensaje principal: una frase breve que conecte producto y oferta.
+- Tres enfoques de comunicación: distintos motivos reales para comprar, adecuados para probar en anuncios.
+- Prueba o respaldo: qué característica, dato o evidencia sostiene cada mensaje.
+- Material visual: qué fotos reales necesito para mostrar el producto, sus detalles o el contenido del pack.
+- Condiciones: código, medio de pago, cantidad mínima, alcance, vigencia o entrega, cuando correspondan.
+- Llamado a la acción: qué debería hacer la persona después de ver el anuncio.
+
+Pensá en piezas estáticas para el feed y versiones verticales para Stories y Reels. No supongas que una imagen estática es un video.
+
+Usá beneficios y características verificables. No inventes testimonios, resultados de uso ni afirmaciones sobre las personas que van a ver el anuncio. Presentá el comprador potencial como una hipótesis, salvo que haya datos que lo respalden.
+
+No prometas que un producto, mensaje o diseño va a generar ventas.
+
+7. INDICÁ QUÉ CONVIENE APRENDER CON LA PUBLICIDAD
+
+Proponé una pregunta concreta para evaluar con los anuncios, por ejemplo, qué motivo de compra genera una mejor respuesta.
+
+Diferenciá explorar varias propuestas de hacer una prueba controlada. Si quiero medir el efecto de un cambio específico, explicá qué conviene mantener igual y qué modificar.
+
+Indicá qué datos debería registrar después: inversión, compras, costo por compra y rentabilidad estimada según los costos considerados.
+
+No inventes un presupuesto recomendado, un ROAS esperado ni un costo por compra probable sin información suficiente. No afirmes que estás analizando mi cuenta de Meta Ads si no tenés acceso a ella.
+
+8. ENTREGAME UN RESUMEN LISTO PARA CREAR LOS ANUNCIOS
+
+Terminá con una ficha breve por evento:
+
+Evento:
+Objetivo comercial:
+Producto y variante:
+Enlace de destino:
+Oferta exacta:
+Comprador potencial:
+Motivo principal para comprar:
+Tres enfoques para los anuncios:
+Fotos necesarias:
+Condiciones y vigencia:
+Límite económico para publicidad por pedido, si se pudo calcular:
+Datos pendientes de confirmar:
+Estado: listo para preparar anuncios / propuesta pendiente de validar.
+
+Primero hacé las preguntas necesarias y esperá mis respuestas. Después avanzá por etapas, con tablas breves y conclusiones claras. No modifiques productos, precios, stock ni promociones de mi tienda.
