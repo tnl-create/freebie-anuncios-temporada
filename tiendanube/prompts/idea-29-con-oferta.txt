@@ -1,6 +1,10 @@
-THE NET LAB × TIENDANUBE · ¿Aceptás este regalo?
+THE NET LAB · ¿Aceptás este regalo?
 
-Adjuntá la referencia y la foto original de tu producto.
+1. Descargá la referencia desde la ficha.
+2. Adjuntá la referencia y tus fotografías en la herramienta de imágenes.
+3. Completá producto, marca, promoción y condiciones antes de generar.
+4. Revisá el resultado con tu foto original.
+
 FORMATO: una sola imagen VERTICAL 4:5. No devolver una imagen horizontal aunque la foto de entrada sea horizontal.
 INSUMOS OBLIGATORIOS — NO GENERAR CON TEXTO SOLO
 Adjunto dos imágenes distintas. IMAGEN 1 = REFERENCIA CREATIVA de esta ficha. IMAGEN 2 = FOTOGRAFÍA DE MI PRODUCTO. Si falta cualquiera de ellas, pedila antes de generar. Si el layout requiere más fotos de producto, pedilas también.
@@ -27,6 +31,3 @@ DETALLES DE DIRECCIÓN DE ARTE
 
 AJUSTE EDITORIAL V6
 Un panel marfil ocupa aproximadamente el 80% del ancho. Icono neutral pequeño, separadores finos y controles alineados; nunca copiar logos de sistemas operativos. Producto recortado dentro del panel y contexto original muy desenfocado detrás, si existe; en otro caso fondo liso. Evitar paisajes inventados. Integrar la oferta en la tipografía de la interfaz.
-
-CONTEXTO TIENDANUBE
-Trabajamos con un producto vendido en mi Tiendanube. Completá: enlace público del producto, promoción y condiciones, cómo se obtiene el beneficio y código exacto si requiere cupón. Usar únicamente los datos aportados. No inventar una conexión con la tienda ni afirmar que comprobaste stock o el carrito. Si falta información indispensable, pedirla. La marca del anuncio es mi marca; no agregar logos de Tiendanube o The Net Lab por ser los autores de la guía. La URL corresponde al destino del anuncio: no imprimirla en la imagen salvo que lo pida. Si el modo es sin promoción, no mostrar descuentos, códigos ni precios promocionales.

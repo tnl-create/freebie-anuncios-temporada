@@ -1,6 +1,10 @@
-THE NET LAB × TIENDANUBE · Cuatro papeles, un set
+THE NET LAB · Cuatro papeles, un set
 
-Adjuntá la referencia y la foto original de tu producto.
+1. Descargá la referencia desde la ficha.
+2. Adjuntá la referencia y tus fotografías en la herramienta de imágenes.
+3. Completá producto, marca, promoción y condiciones antes de generar.
+4. Revisá el resultado con tu foto original.
+
 INSUMOS OBLIGATORIOS — NO GENERAR CON TEXTO SOLO
 Adjunto dos imágenes distintas. IMAGEN 1 = REFERENCIA CREATIVA de esta ficha. IMAGEN 2 = FOTOGRAFÍA DE MI PRODUCTO. Si falta cualquiera de ellas, pedila antes de generar. Si el layout requiere más fotos de producto, pedilas también.
 ROL DE CADA IMAGEN: de la IMAGEN 1 conservá el mecanismo creativo, distribución, relaciones de escala, tratamiento tipográfico y recursos gráficos esenciales. No usar sus marcas, logos, productos ni claims; el titular creativo se adapta a mi marca sin perder su función. De la IMAGEN 2 tomá exclusivamente mi producto: forma, color, etiqueta, packaging, estampado y detalles deben conservarse. Nunca intercambies estas funciones.
@@ -20,6 +24,3 @@ ANTES DE PRODUCIR: pedir en una sola tanda únicamente los insumos críticos fal
 RIESGO ESPECÍFICO: Hojas deformadas o asignar usos inexistentes.
 
 VERSIÓN SIN OFERTA: mantener el mismo titular creativo, producto, composición y recursos. Omitir TODOS los porcentajes, precios, ahorros, evento, fechas promocionales, urgencia y condiciones comerciales aunque estén en el brief. Reequilibrar con aire o titular creativo, sin convertir a otro layout. Solo características verificadas. En comparaciones, usar diferencias factuales aportadas; en gráficos, datos reales sin precios ni eficacia inventada. No escribir SIN OFERTA dentro de la imagen. Revisar contra la referencia y la foto original.
-
-CONTEXTO TIENDANUBE
-Trabajamos con un producto vendido en mi Tiendanube. Completá: enlace público del producto, promoción y condiciones, cómo se obtiene el beneficio y código exacto si requiere cupón. Usar únicamente los datos aportados. No inventar una conexión con la tienda ni afirmar que comprobaste stock o el carrito. Si falta información indispensable, pedirla. La marca del anuncio es mi marca; no agregar logos de Tiendanube o The Net Lab por ser los autores de la guía. La URL corresponde al destino del anuncio: no imprimirla en la imagen salvo que lo pida. Si el modo es sin promoción, no mostrar descuentos, códigos ni precios promocionales.
