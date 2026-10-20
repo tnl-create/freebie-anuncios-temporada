@@ -50,3 +50,11 @@
 #tnl24 .card-actions .btn{padding:9px 14px;font-size:11px}
 @media(max-width:1100px){#tnl24 .grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:800px){#tnl24 .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}#tnl24 .card-body{padding:11px}#tnl24 .card h3{font-size:15px}#tnl24 .card-body>p{font-size:12px;margin:5px 0 10px}#tnl24 .ref-tag{font-size:8px;padding:6px 9px}#tnl24 .card-actions .btn{width:100%;justify-content:center;padding:9px 10px;font-size:11px}}
+/* 21-oct-2026 (6): revisión + preguntas + movimiento en una sola sección oscura */
+#tnl24 .check-faq{grid-column:1/-1;border-top:1px solid #ffffff30;margin-top:10px}
+#tnl24 .check-faq>details{border-bottom:1px solid #ffffff22;padding:0;border-top:0;margin:0}
+#tnl24 .check-faq>details>summary{font-weight:700;font-size:15px;padding:20px 0;cursor:pointer;color:#FAFAF7;list-style-position:inside}
+#tnl24 .check-faq>details>p{margin:0 0 18px;font-size:14px;line-height:1.6;color:#d8d7e5;max-width:760px}
+#tnl24 .check-faq>.motion-extra{margin:0;padding:0}
+#tnl24 .check-faq>.motion-extra>.motion-grid{margin:6px 0 30px}
+#tnl24 .check-faq .motion-card{color:#12142a}
