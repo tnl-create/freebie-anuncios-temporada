@@ -25,3 +25,16 @@ button.addEventListener('click',async()=>{
  const pause=()=>document.documentElement.classList.toggle('motion-paused',document.hidden||reduced.matches);
  document.addEventListener('visibilitychange',pause);reduced.addEventListener('change',pause);pause();
 })();
+
+// 21-oct-2026: sección de movimiento. Los videos corren solos mientras se ven; copiar brief.
+(() => {
+ const sec=document.getElementById('tn-motion'); if(!sec)return;
+ const vids=[...sec.querySelectorAll('video')], reduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+ if(reduced){vids.forEach(v=>{v.removeAttribute('autoplay');v.pause();v.controls=true;});}
+ else if('IntersectionObserver' in window){const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){const p=e.target.play();if(p&&p.catch)p.catch(()=>{e.target.controls=true;});}else e.target.pause();}),{threshold:.35});vids.forEach(v=>io.observe(v));}
+ sec.querySelectorAll('[data-tn-brief]').forEach(b=>b.addEventListener('click',async()=>{
+  const t=b.closest('.tn-motion-body').querySelector('[data-tn-brief-text]');let ok=false;
+  try{await navigator.clipboard.writeText(t.value);ok=true;}catch(_){const f=document.createElement('textarea');f.value=t.value;f.style.cssText='position:fixed;opacity:0';document.body.appendChild(f);f.select();try{ok=document.execCommand('copy');}catch(_){}f.remove();}
+  b.textContent=ok?'Brief copiado ✓':'No se pudo copiar';setTimeout(()=>{b.textContent='Copiar brief';},2500);
+ }));
+})();
