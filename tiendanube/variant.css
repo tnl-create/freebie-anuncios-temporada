@@ -27,3 +27,5 @@
 
 /* Recorte 21-oct-2026: controles secundarios atados al JS, ocultos en vez de borrados */
 #tnl24 #tnl24-clear-brief,#tnl24 #tnl24-save-batch,#tnl24 #tnl24-batch-status{display:none!important}
+#tnl24 .hero-logo{display:block;width:132px;height:auto;margin:0 0 26px}
+@media(max-width:640px){#tnl24 .hero-logo{width:112px;margin-bottom:20px}}
