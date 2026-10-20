@@ -76,7 +76,7 @@ $('#tnl24-save-batch').addEventListener('click',()=>{if(!batch)return;downloadTe
 conditionals();
 root.addEventListener('click',e=>{const link=e.target.closest('a[download]');if(link)action('reference_download_clicked');const pma=e.target.closest('#tnl24-pma a');if(pma)action('pma_clicked');});
 field('Evento').value='CyberMonday';setPhase('peak');
-const sourceDemo=data.find(s=>s.id===1);$('#tnl24-hero-source').innerHTML=`<figure><img src="${esc(sourceDemo.demo.source)}" alt="Foto de partida del sérum CALMA usada en los cuatro anuncios de demostración" width="600" height="450" decoding="async"><figcaption>FOTO DE PARTIDA · USAMOS EL SÉRUM</figcaption></figure><div><p>Con tu foto + tu oferta</p><strong>30% OFF</strong><small>podés crear esto ↓</small></div>`;
+const sourceDemo=data.find(s=>s.id===1);$('#tnl24-hero-source').innerHTML=`<figure><img src="${esc(sourceDemo.demo.source)}" alt="Foto de partida del sérum CALMA usada en los cuatro anuncios de demostración" width="600" height="450" decoding="async"><figcaption>FOTO DE PARTIDA · USAMOS EL SÉRUM</figcaption></figure><div><p>Tu foto + tu oferta</p><strong>30% OFF</strong><small>Así quedan los anuncios</small></div>`;
 
 root.querySelectorAll('.hero-refs img, .hero-source img').forEach(img=>{
  const fail=()=>{img.hidden=true;let text=document.createElement('p');text.className='hero-fallback';text.textContent='Referencia no disponible. Consultá la composición en la ficha.';img.parentElement.prepend(text);};
