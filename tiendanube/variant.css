@@ -58,3 +58,34 @@
 #tnl24 .check-faq>.motion-extra{margin:0;padding:0}
 #tnl24 .check-faq>.motion-extra>.motion-grid{margin:6px 0 30px}
 #tnl24 .check-faq .motion-card{color:#12142a}
+/* 21-oct-2026 (7): hero con carrusel en movimiento */
+#tnl24 .hero.hero-v2{display:grid;grid-template-columns:1fr 1fr;grid-template-areas:"head head" "copy board" "marquee marquee";gap:30px 65px;align-items:center;padding-bottom:0}
+#tnl24 .hero-v2 .hero-head{grid-area:head}#tnl24 .hero-v2 .hero-copy{grid-area:copy}#tnl24 .hero-v2 .hero-board{grid-area:board}#tnl24 .hero-v2 .hero-marquee{grid-area:marquee}
+#tnl24 .hero.hero-v2 h1{font-size:clamp(34px,5.1vw,76px);margin:0}
+#tnl24 .hero-v2 .h1-line{display:block;white-space:nowrap}
+#tnl24 .hero-v2 h1 em{display:block}
+#tnl24 .hero-v2 .hero-source{margin:0}
+#tnl24 .hero-v2 .hero-source small{font-size:15px;font-weight:600;color:#534AB7}
+#tnl24 .hero-marquee{overflow:hidden;padding:18px 0 64px;-webkit-mask-image:linear-gradient(90deg,transparent,#000 5%,#000 95%,transparent);mask-image:linear-gradient(90deg,transparent,#000 5%,#000 95%,transparent)}
+#tnl24 .hero-track{display:flex;width:max-content;animation:tnl-marquee 110s linear infinite}
+#tnl24 .hero-set{display:flex;gap:16px;padding-right:16px}
+#tnl24 .hero-set figure{margin:0;flex:0 0 auto;width:200px;aspect-ratio:4/5;border-radius:12px;overflow:hidden;background:#f0efeb;box-shadow:0 10px 30px #00000040}
+#tnl24 .hero-set img{display:block;width:100%;height:100%;object-fit:cover}
+#tnl24 .hero-marquee:hover .hero-track{animation-play-state:paused}
+@keyframes tnl-marquee{to{transform:translateX(-50%)}}
+@keyframes tnl-rise{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:none}}
+#tnl24 .hero-v2 .h1-line{animation:tnl-rise .8s cubic-bezier(.2,.7,.2,1) both}
+#tnl24 .hero-v2 h1 em{animation:tnl-rise .8s .15s cubic-bezier(.2,.7,.2,1) both}
+#tnl24 .hero-v2 .hero-copy{animation:tnl-rise .8s .3s cubic-bezier(.2,.7,.2,1) both}
+#tnl24 .hero-v2 .hero-board{animation:tnl-rise .8s .45s cubic-bezier(.2,.7,.2,1) both}
+@media(max-width:900px){#tnl24 .hero.hero-v2{grid-template-columns:1fr;grid-template-areas:"head" "copy" "board" "marquee";gap:26px}#tnl24 .hero-v2 .h1-line{white-space:normal}#tnl24 .hero.hero-v2 h1{font-size:clamp(38px,10vw,56px)}#tnl24 .hero-set figure{width:150px}#tnl24 .hero-marquee{padding-bottom:44px}}
+@media(prefers-reduced-motion:reduce){#tnl24 .hero-track,#tnl24 .hero-v2 .h1-line,#tnl24 .hero-v2 h1 em,#tnl24 .hero-v2 .hero-copy,#tnl24 .hero-v2 .hero-board{animation:none}#tnl24 .hero-marquee{overflow-x:auto}}
+/* 21-oct-2026 (7b): la entrada del hero nunca se pausa (si se pausaba al cargar, el texto quedaba invisible) */
+.motion-paused #tnl24 .hero-v2 .h1-line,.motion-paused #tnl24 .hero-v2 h1 em,.motion-paused #tnl24 .hero-v2 .hero-copy,.motion-paused #tnl24 .hero-v2 .hero-board{animation-play-state:running!important}
+/* título en una línea con margen: escritorio y tablet sin corte; celular en dos líneas */
+#tnl24 .hero.hero-v2 h1{font-size:min(4.8vw,62px)}
+@media(max-width:900px){#tnl24 .hero-v2 .h1-line{white-space:nowrap}#tnl24 .hero.hero-v2 h1{font-size:4.9vw}}
+@media(max-width:600px){#tnl24 .hero-v2 .h1-line{white-space:normal}#tnl24 .hero.hero-v2 h1{font-size:38px}}
+/* 21-oct-2026 (7c): la entrada del hero solo mueve, no oculta. Si el navegador no corre la animación, el texto igual se ve */
+@keyframes tnl-hero-rise{from{transform:translateY(22px)}to{transform:none}}
+#tnl24 .hero-v2 .h1-line,#tnl24 .hero-v2 h1 em,#tnl24 .hero-v2 .hero-copy,#tnl24 .hero-v2 .hero-board{animation-name:tnl-hero-rise}

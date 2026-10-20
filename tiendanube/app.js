@@ -76,8 +76,8 @@ $('#tnl24-save-batch').addEventListener('click',()=>{if(!batch)return;downloadTe
 conditionals();
 root.addEventListener('click',e=>{const link=e.target.closest('a[download]');if(link)action('reference_download_clicked');const pma=e.target.closest('#tnl24-pma a');if(pma)action('pma_clicked');});
 field('Evento').value='CyberMonday';setPhase('peak');
-const sourceDemo=data.find(s=>s.id===1);$('#tnl24-hero-source').innerHTML=`<figure><img src="${esc(sourceDemo.demo.source)}" alt="Foto de partida del sérum CALMA usada en los cuatro anuncios de demostración" width="600" height="450" decoding="async"><figcaption>FOTO DE PARTIDA · USAMOS EL SÉRUM</figcaption></figure><div><p>Tu foto + tu oferta</p><strong>30% OFF</strong><small>Oferta de demostración</small></div>`;
-$('#tnl24-hero-refs').innerHTML=[1,3,8,14].map(id=>{const s=data.find(x=>x.id===id);return `<figure><img src="${esc(s.demo?s.demo.image:s.reference.image)}" alt="${esc(s.name+' con el mismo sérum CALMA y 30% de descuento')}" width="736" height="920" decoding="async"><figcaption>${esc(s.name.toUpperCase())} / 30% OFF<button type="button" data-open="${s.id}" aria-label="Ver cómo se prepara ${esc(s.name)}">Ver cómo hacerlo ↗</button></figcaption></figure>`;}).join('');
+const sourceDemo=data.find(s=>s.id===1);$('#tnl24-hero-source').innerHTML=`<figure><img src="${esc(sourceDemo.demo.source)}" alt="Foto de partida del sérum CALMA usada en los cuatro anuncios de demostración" width="600" height="450" decoding="async"><figcaption>FOTO DE PARTIDA · USAMOS EL SÉRUM</figcaption></figure><div><p>Con tu foto + tu oferta</p><strong>30% OFF</strong><small>podés crear esto ↓</small></div>`;
+
 root.querySelectorAll('.hero-refs img, .hero-source img').forEach(img=>{
  const fail=()=>{img.hidden=true;let text=document.createElement('p');text.className='hero-fallback';text.textContent='Referencia no disponible. Consultá la composición en la ficha.';img.parentElement.prepend(text);};
  img.addEventListener('error',fail,{once:true});if(img.complete&&!img.naturalWidth)fail();
