@@ -1,33 +1,59 @@
 THE NET LAB · ¿Aceptás este regalo?
 
-1. Descargá la referencia desde la ficha.
-2. Adjuntá la referencia y tus fotografías en la herramienta de imágenes.
-3. Completá producto, marca, promoción y condiciones antes de generar.
-4. Revisá el resultado con tu foto original.
+DÓNDE SE SUBE TU FOTO: EN CHATGPT
+1. Descargá la imagen de referencia desde esta ficha.
+2. Abrí https://chatgpt.com/ e iniciá un chat con tu cuenta.
+3. En el cuadro donde escribís, usá Adjuntar (ícono + o clip, según la versión), o arrastrá los archivos. Adjuntá la referencia como imagen 1 y tu foto original como imagen 2. Sumá las fotos adicionales que requiere la idea y, si hace falta, ejemplos de tu marca. Esperá a ver los archivos adjuntos.
+4. Pegá el prompt completo de abajo EN ESE MISMO MENSAJE y envialo. Las imágenes no se adjuntan automáticamente al copiar el texto ni al abrir ChatGPT.
+5. Descargá y revisá el resultado antes de publicarlo. Usás tu propia cuenta y sus límites disponibles.
 
-FORMATO: una sola imagen VERTICAL 4:5. No devolver una imagen horizontal aunque la foto de entrada sea horizontal.
-INSUMOS OBLIGATORIOS — NO GENERAR CON TEXTO SOLO
-Adjunto dos imágenes distintas. IMAGEN 1 = REFERENCIA CREATIVA de esta ficha. IMAGEN 2 = FOTOGRAFÍA DE MI PRODUCTO. Si falta cualquiera de ellas, pedila antes de generar. Si el layout requiere más fotos de producto, pedilas también.
-ROL DE CADA IMAGEN: de la IMAGEN 1 conservá el mecanismo creativo, distribución, relaciones de escala, tratamiento tipográfico y recursos gráficos esenciales. No usar sus marcas, logos, productos ni claims; el titular creativo se adapta a mi marca sin perder su función. De la IMAGEN 2 tomá exclusivamente mi producto: forma, color, etiqueta, packaging, estampado y detalles deben conservarse. Nunca intercambies estas funciones.
-DOS VERSIONES DEL MISMO CONCEPTO: mantener el mismo titular creativo, composición y producto. La versión comercial añade porcentaje de descuento o precio real con el mayor peso de lectura, y Navidad o fin de año como identificación breve. La oferta no reemplaza el titular creativo ni elimina el mecanismo de la referencia. No aplicar una nueva plantilla genérica a todas las piezas.
-CRITERIO EDITORIAL: estudiar primero los márgenes, el tamaño relativo del producto, el peso y contraste tipográfico y el espacio vacío de la referencia. Conservar esas relaciones al adaptar la marca. Integrar UNA sola intervención comercial en ese sistema: una línea del titular, un rótulo de interfaz, una anotación o el nodo del diagrama. Eliminar sellos, píldoras y cartelas que no existen en la referencia. Si elegimos porcentaje, no añadir automáticamente precios anterior/actual; si elegimos precio de pack, no añadir porcentaje. Los valores adicionales se admiten solo cuando son necesarios para una comparación o gráfico real. No usar negrita pesada por defecto. La oferta se entiende primero por ubicación y contraste, sin ampliar todos los textos ni aplastar la composición. Reducir contenido antes de comprimir el aire de la referencia.
-ARGUMENTO: elegir una razón de compra principal del brief y expresarla en el titular o el mecanismo visual. La oferta tiene prioridad de lectura, pero no sumar beneficios, prueba social, regalo y urgencia como cuatro argumentos competidores. Usar testimonios únicamente si el usuario adjunta evidencia real y autoriza su uso; nunca fabricarlos. La fecha de entrega o cierre debe estar confirmada. No convertir automáticamente todas las razones de compra en una pieza de descuento.
-TEXTO: usar el titular creativo aportado. Si no hay uno, redactar una frase breve de hasta seis palabras a partir del producto y la ocasión, sin inventar beneficios ni afirmaciones. Pedir la oferta exacta y condiciones; precios solo si se muestran. Si elegimos porcentaje, los precios recibidos sirven para comprobar la cuenta, no para añadir otro bloque comercial. Conservar las condiciones necesarias para que el mensaje sea verdadero. No inventar beneficios ni ampliar rótulos de características a párrafos. No escribir “ejemplo ficticio”, notas de producción, instrucciones, marcas de agua o disclaimers de demostración dentro del anuncio; esas aclaraciones van fuera de la pieza en el recurso.
-PRODUCTO: montaje del original si no es posible preservar sus detalles. No asegurar identidad de píxeles sin verificación. Comparar al terminar la imagen de referencia, el producto original y el resultado. Si se perdió un recurso esencial, corregir antes de entregar.
+FOTOS NECESARIAS: Una foto contextual con espacio para el panel; si no hay, dejar el recorte original sobre fondo plano.
+REFERENCIA ORIGINAL: https://ar.pinterest.com/pin/547046686009211213/
 
-ESTRATEGIA: ¿Aceptás este regalo?
-COMPOSICIÓN: Panel claro de solicitud de compartir sobre fotografía original. Icono gráfico neutro, título, miniatura real del producto y dos acciones separadas por línea fina.
-FOTOS: Una foto contextual con espacio para el panel; si no hay, dejar el recorte original sobre fondo plano.
-RIESGO: No copiar AirDrop, Apple ni logos de sistemas. No poner una lista de cinco beneficios inventados.
-Antes de generar pedir únicamente imágenes obligatorias y mensaje comercial que falten. Elegir un único SKU o variantes confirmadas. No sumar nieve, árboles, regalos envueltos, manos, brillo dorado ni accesorios por defecto. Navidad se comunica mediante el argumento de regalo, no decoraciones genéricas. Mantener las texturas fotográficas del original.
+PROMPT
+[INSTRUCCIÓN]
+Creá UNA imagen publicitaria con mis fotografías reales. Aplicá transposición creativa: trasladá la estructura de la referencia a mi negocio, sin copiar su marca, sus colores, sus textos ni su producto. Si están todos los insumos críticos, generá la imagen; no devuelvas solamente otro prompt.
 
-SIN OFERTA: mantener concepto, composición y producto; omitir precios, porcentajes, cierres y urgencia. Conservar el argumento de regalo. Si el calendario no puede conservar sentido sin una fecha comercial, usar fechas de ocasión reales aportadas, no inventar una promoción.
-ESCALA FÍSICA: si la composición muestra una escena en uso, pedir medidas o fotografía real de escala cuando sean necesarias. Si no hay, trabajar con el recorte original como composición gráfica, sin inventar manos ni dimensiones.
+INSUMOS EN ESTE MISMO MENSAJE
+IMAGEN 1 = referencia de ESTRUCTURA descargada de la ficha «¿Aceptás este regalo?». Debe estar adjunta como archivo; este enlace no la reemplaza: https://ar.pinterest.com/pin/547046686009211213/
+IMAGEN 2 = foto ORIGINAL de mi producto. Es la fuente de verdad de forma, color, etiqueta, envase, estampado y proporciones. El anuncio de demostración del freebie no es mi producto ni la referencia original.
+IMÁGENES ADICIONALES = las fotos reales que necesita esta idea y, si las adjunto, referencias de MI marca. Identificá cada archivo por su función. Si hay dudas sobre cuál es cuál, preguntame; no asumas el orden silenciosamente.
+Fotos necesarias para esta estructura: Una foto contextual con espacio para el panel; si no hay, dejar el recorte original sobre fondo plano.
+Si falta referencia, foto original o material indispensable para esta composición, pedilo en una sola tanda antes de generar. No inventes variantes, ingredientes, nuevas vistas, personas ni manos. Si mi material no alcanza, explicá qué falta o proponé una estructura compatible.
 
-DETALLES DE DIRECCIÓN DE ARTE
-- Interfaz con un único eje de alineación, bordes limpios e icono neutro pequeño.
-- Foto de contexto original, sin exceso de saturación ni paisajes inventados.
-- Titular protagonista dentro de la interfaz; producto legible y controles secundarios.
+BASE ESTRATÉGICA — ANTES DE COMPONER
+Separá en una ficha breve: insight (situación, duda o deseo real del cliente), concepto (idea que lo conecta con mi producto), ángulo (mensaje concreto), respaldo (dato o prueba aportados) y estrategia creativa (cómo lo mostrás).
+Si no aporté un insight real, pedime una situación, pregunta o comentario frecuente de mis clientes. Una posible lectura del público debe quedar marcada como hipótesis, nunca como investigación realizada.
+Elegí un solo ángulo respaldado por mi brief.
+No confundas el nombre del layout con un concepto de negocio. No afirmes que este ángulo gana ni que genera ventas. No inventes research, reseñas, estadísticas, resultados de uso ni diferenciales.
 
-AJUSTE EDITORIAL V6
-Mantener panel, producto, titular y controles; eliminar oferta y rótulo del evento. No agrandar el producto para llenar el hueco.
+[BRAND PROMPT]
+Dirección de MI marca:
+Todavía no definí mi dirección visual. Antes de generar, pedime mis colores y estilo, o imágenes de mi propia marca para construir el Brand Prompt. La referencia de estructura no define mi identidad.
+Convertí esos insumos en una dirección visual coherente: paleta, luz, materiales o fondos, encuadre, carácter tipográfico y tono. Si adjunto referencias de mi marca, analizalas para completar esa dirección; no atribuyas a una foto de producto una tipografía o paleta que no se ve.
+Definí el Brand Prompt antes de generar. No uses la identidad del pin como sustituto de mi identidad. Conservá la jerarquía funcional del recurso con tipografías y colores compatibles con MI marca. No introduzcas una estética genérica distinta de lo aportado.
+
+[ESTRUCTURA TRANSPUESTA]
+Idea de esta ficha: ¿Aceptás este regalo?.
+Qué hace el recurso: Aceptar o rechazar convierte el regalo en una decisión..
+Composición de origen: Panel claro de solicitud de compartir sobre fotografía original. Icono gráfico neutro, título, miniatura real del producto y dos acciones separadas por línea fina.
+Recursos que conservar: Un panel marfil ocupa aproximadamente el 80% del ancho. Icono neutral pequeño, separadores finos y controles alineados; nunca copiar logos de sistemas operativos. Producto recortado dentro del panel y contexto original muy desenfocado detrás, si existe; en otro caso fondo liso. Evitar paisajes inventados. Integrar la oferta en la tipografía de la interfaz.
+Versión sin promoción: eliminá precio, descuento, evento, urgencia y fechas promocionales aunque aparezcan en la referencia. Conservá el mecanismo y reequilibrá los espacios.
+Estas descripciones indican relaciones, zonas y funciones del diseño, no una autorización para copiar la identidad visual ajena. Adaptá por función: titular por titular, prueba por prueba, producto por producto. Preservá el mecanismo reconocible, la escala relativa, el recorrido de lectura y el aire; resolvé su apariencia con mi Brand Prompt. No reduzcas todas las ideas a producto centrado más sello de descuento.
+Riesgo específico que revisar: No copiar AirDrop, Apple ni logos de sistemas. No poner una lista de cinco beneficios inventados.
+
+[CONTENIDO]
+Datos reales que aporté:
+Todavía no aporté mi brief. Pedime producto, mensaje, prueba real y los textos que se van a mostrar.
+No muestres porcentajes, precios, evento ni condiciones promocionales. Trabajá el mensaje del producto con evidencia real.
+Si aporté titular, usalo exacto. Si no, proponé uno breve que exprese el ángulo y esté respaldado por mis datos. No pongas títulos internos como «insight» o «Brand Prompt» dentro del anuncio.
+Si la estructura requiere una reseña, cifra o comparación y falta respaldo, pedilo o proponé otra estructura. Un testimonio debe venir del cliente con autorización: no inventes nombre, cita ni estrellas. No inventes causas, eficacia ni duración a partir de una fotografía.
+Antes de generar, fijá qué texto va en cada zona y usá únicamente ese contenido. No sumes párrafos de relleno. No copies la promoción de CALMA ni textos del ejemplo.
+
+[FORMATO]
+4:5 — Feed de Instagram y Facebook. Composición legible en teléfono, márgenes suficientes y producto sin recortes accidentales. Generá solo la versión elegida. No dibujes un botón de interfaz ni marcas de agua, instrucciones o notas de maqueta dentro de la pieza.
+Conservá el producto real. Para escenas de uso, necesitás fotos reales o medidas confirmadas: no deduzcas escala por mililitros. Si la IA no conserva etiqueta o detalles, indicá la limitación y proponé montar el recorte original en un editor; no presentes un producto alterado como idéntico.
+
+[REVISIÓN Y CORRECCIÓN]
+Compará referencia, foto original y resultado: ¿se conserva el mecanismo?, ¿se reconoce mi marca?, ¿producto y etiqueta coinciden?, ¿el mensaje tiene respaldo?, ¿textos, oferta y condiciones son exactos?, ¿se lee en el teléfono?
+Informá cualquier limitación sin prometer fidelidad absoluta. Si algo falla, corregí esa parte conservando lo correcto. Para un ajuste puntual de texto, precio o etiqueta, también puedo guardar el resultado y editarlo en Canva: usar «Separar en capas» si está disponible en mi cuenta y funciona con esa imagen, o superponer el texto/recorte original. No es necesario rehacer todo el anuncio.
