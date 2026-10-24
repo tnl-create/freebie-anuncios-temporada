@@ -65,6 +65,7 @@ function setPhase(id){currentPhase=phases.find(p=>p.id===id)||phases[1];field('M
 $('#tnl24-phase-tabs').innerHTML=phases.map(p=>`<button type="button" data-phase="${p.id}" aria-pressed="false">${esc(p.name)}</button>`).join('');
 $('#tnl24-phase-tabs').addEventListener('click',e=>{const button=e.target.closest('[data-phase]');if(button)setPhase(button.dataset.phase);});
 productForm.addEventListener('submit',e=>e.preventDefault());
+productForm.addEventListener('invalid',e=>{let details=e.target.closest('details');while(details){details.open=true;details=details.parentElement.closest('details');}},true);
 productForm.addEventListener('input',()=>{const chosenReason=reasonById.get(field('Razón').value);field('Ángulo').value=chosenReason?chosenReason.label:'';clearBatch();if(active)$('#tnl24-prompt').value=fullPrompt(active);});
 productForm.addEventListener('change',e=>{if(e.target.name==='Evento'){if(e.target.value==='Navidad')setPhase('gift');else if(currentPhase.id==='gift')setPhase('peak');}conditionals();const reason=reasonById.get(field('Razón').value);field('Ángulo').value=reason?reason.label:'';clearBatch();});
 $('#tnl24-clear-brief').addEventListener('click',()=>{productForm.reset();conditionals();setPhase('peak');toast('Datos limpiados.');});
