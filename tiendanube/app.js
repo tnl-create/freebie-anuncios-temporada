@@ -74,7 +74,7 @@ $('#tnl24-batch').addEventListener('click',e=>{const button=e.target.closest('[d
 $('#tnl24-save-batch').addEventListener('click',()=>{if(!batch)return;downloadText('THE NET LAB · MI SELECCIÓN\n'+brief()+'\n\n'+batch.rows.map((row,i)=>'IDEA '+(i+1)+': '+row.strategy.name+'\nMOTIVO: '+reasonById.get(row.reason).label+'\nFOTOS: '+row.strategy.photos+'\nREFERENCIA: '+row.strategy.reference.pin).join('\n\n')+'\n\nEn ChatGPT, adjuntá la referencia como imagen 1 y tu foto original como imagen 2. Pegá el prompt en ese mismo mensaje. Generá y revisá el resultado.','tnl-mi-seleccion.txt');});
 conditionals();
 root.addEventListener('click',e=>{const link=e.target.closest('a[download]');if(link)action('reference_download_clicked');const pma=e.target.closest('#tnl24-pma a');if(pma)action('pma_clicked');});
-field('Evento').value='CyberMonday';setPhase('peak');
+field('Evento').value='Otra promoción';setPhase('peak');
 const sourceDemo=data.find(s=>s.id===1);$('#tnl24-hero-source').innerHTML=`<figure><img src="${esc(sourceDemo.demo.source)}" alt="Foto de partida del sérum CALMA usada en los cuatro anuncios de demostración" width="600" height="450" decoding="async"><figcaption>FOTO DE PARTIDA · USAMOS EL SÉRUM</figcaption></figure><div><p>Tu foto + tu oferta</p><strong>30% OFF</strong><small>Así quedan los anuncios</small></div>`;
 
 root.querySelectorAll('.hero-refs img, .hero-source img').forEach(img=>{

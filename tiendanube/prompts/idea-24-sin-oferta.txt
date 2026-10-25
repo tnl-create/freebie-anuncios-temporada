@@ -12,7 +12,7 @@ REFERENCIA ORIGINAL: https://ar.pinterest.com/pin/547046686008469094/
 
 PROMPT
 [INSTRUCCIÓN]
-Creá UNA imagen publicitaria con mis fotografías reales. Aplicá transposición creativa: trasladá la estructura de la referencia a mi negocio, sin copiar su marca, sus colores, sus textos ni su producto. Si están todos los insumos críticos, generá la imagen; no devuelvas solamente otro prompt.
+Creá UNA imagen publicitaria con mis fotografías reales. Aplicá transposición creativa: trasladá la estructura de la referencia a mi negocio, sin copiar su marca, sus colores, sus textos ni su producto. Si están la referencia, mi foto y los tres datos básicos (producto, promoción y qué destacar), generá la imagen con una hipótesis de uso y dirección visual provisional cuando no haya más contexto. Pedí algo adicional solo si es indispensable para esta estructura o para no inventar una afirmación. No devuelvas solamente otro prompt.
 
 INSUMOS EN ESTE MISMO MENSAJE
 IMAGEN 1 = referencia de ESTRUCTURA descargada de la ficha «Tres números que importan». Debe estar adjunta como archivo; este enlace no la reemplaza: https://ar.pinterest.com/pin/547046686008469094/
@@ -23,15 +23,15 @@ Si falta referencia, foto original o material indispensable para esta composici�
 
 BASE ESTRATÉGICA — ANTES DE COMPONER
 Separá en una ficha breve: insight (situación, duda o deseo real del cliente), concepto (idea que lo conecta con mi producto), ángulo (mensaje concreto), respaldo (dato o prueba aportados) y estrategia creativa (cómo lo mostrás).
-Si no aporté un insight real, pedime una situación, pregunta o comentario frecuente de mis clientes. Una posible lectura del público debe quedar marcada como hipótesis, nunca como investigación realizada.
+Si no aporté un insight investigado, formulá una hipótesis de uso simple basada en el producto y en la característica real que destaqué. Marcala como hipótesis en tu explicación fuera de la imagen; no la conviertas en una estadística, testimonio o resultado demostrado. No frenes por no tener research.
 Elegí un solo ángulo respaldado por mi brief.
 No confundas el nombre del layout con un concepto de negocio. No afirmes que este ángulo gana ni que genera ventas. No inventes research, reseñas, estadísticas, resultados de uso ni diferenciales.
 
 [BRAND PROMPT]
 Dirección de MI marca:
-Todavía no definí mi dirección visual. Antes de generar, pedime mis colores y estilo, o imágenes de mi propia marca para construir el Brand Prompt. La referencia de estructura no define mi identidad.
+No aporté un manual de marca. Definí para esta pieza una dirección visual provisional a partir de lo que SÍ se ve en mi foto: colores del envase y la etiqueta, materiales, luz y contexto. Si no hay contexto suficiente, usá un fondo simple compatible con el producto y tipografía legible. No inventes colores oficiales ni una identidad corporativa; no copies la estética del pin. No frenes la generación por no tener un manual de marca.
 Convertí esos insumos en una dirección visual coherente: paleta, luz, materiales o fondos, encuadre, carácter tipográfico y tono. Si adjunto referencias de mi marca, analizalas para completar esa dirección; no atribuyas a una foto de producto una tipografía o paleta que no se ve.
-Definí el Brand Prompt antes de generar. No uses la identidad del pin como sustituto de mi identidad. Conservá la jerarquía funcional del recurso con tipografías y colores compatibles con MI marca. No introduzcas una estética genérica distinta de lo aportado.
+Definí el Brand Prompt antes de generar; si la dirección es provisional, aclaralo solo fuera del anuncio. No uses la identidad del pin como sustituto de mi identidad. Conservá la jerarquía funcional del recurso con tipografías y colores compatibles con MI marca. No introduzcas una estética genérica distinta de lo aportado.
 
 [ESTRUCTURA TRANSPUESTA]
 Idea de esta ficha: Tres números que importan.
@@ -46,7 +46,7 @@ Riesgo específico que revisar: Inventar porcentajes de satisfacción o rendimie
 Datos reales que aporté:
 Todavía no aporté mi brief. Pedime producto, mensaje, prueba real y los textos que se van a mostrar.
 No muestres porcentajes, precios, evento ni condiciones promocionales. Trabajá el mensaje del producto con evidencia real.
-Si aporté titular, usalo exacto. Si no, proponé uno breve que exprese el ángulo y esté respaldado por mis datos. No pongas títulos internos como «insight» o «Brand Prompt» dentro del anuncio.
+Si aporté titular, usalo exacto. Si no, proponé una frase breve y natural en español rioplatense que exprese el ángulo y esté respaldada por mis datos. Antes de generar, leela como una oración: debe tener sentido completo, sin preposiciones faltantes ni pegar el nombre del producto a una frase inconclusa. No pongas títulos internos como «insight» o «Brand Prompt» dentro del anuncio.
 Si la estructura requiere una reseña, cifra o comparación y falta respaldo, pedilo o proponé otra estructura. Un testimonio debe venir del cliente con autorización: no inventes nombre, cita ni estrellas. No inventes causas, eficacia ni duración a partir de una fotografía.
 Antes de generar, fijá qué texto va en cada zona y usá únicamente ese contenido. No sumes párrafos de relleno. No copies la promoción de CALMA ni textos del ejemplo.
 
