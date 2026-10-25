@@ -30,8 +30,22 @@ button.addEventListener('click',async()=>{
 (() => {
  const sec=document.getElementById('tn-motion'); if(!sec)return;
  const vids=[...sec.querySelectorAll('video')], reduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
- if(reduced){vids.forEach(v=>{v.removeAttribute('autoplay');v.pause();v.controls=true;});}
- else if('IntersectionObserver' in window){const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){const p=e.target.play();if(p&&p.catch)p.catch(()=>{e.target.controls=true;});}else e.target.pause();}),{threshold:.35});vids.forEach(v=>io.observe(v));}
+ const visible = new Set(), manualPaused = new WeakSet();
+ function play(v){v.muted=true;v.defaultMuted=true;const p=v.play();if(p&&p.catch)p.catch(()=>{v.controls=true;});}
+ vids.forEach(v=>{
+  const b=v.parentElement.querySelector('[data-tn-video-toggle]');
+  const sync=()=>{b.textContent=v.paused?'▶ Reproducir':'Ⅱ Pausar';b.setAttribute('aria-label',(v.paused?'Reproducir: ':'Pausar: ')+v.getAttribute('aria-label').replace('Animación de ejemplo: ',''));};
+  v.addEventListener('play',sync);v.addEventListener('pause',sync);sync();
+  b.addEventListener('click',()=>{if(v.paused){manualPaused.delete(v);play(v);}else{manualPaused.add(v);v.pause();}});
+  if(reduced){v.removeAttribute('autoplay');v.pause();}
+ });
+ if('IntersectionObserver' in window){
+  const io=new IntersectionObserver(es=>es.forEach(e=>{
+   if(e.isIntersecting){visible.add(e.target);if(!reduced&&!manualPaused.has(e.target)&&!document.hidden)play(e.target);}
+   else{visible.delete(e.target);e.target.pause();}
+  }),{threshold:0.05});vids.forEach(v=>io.observe(v));
+ }else if(!reduced){vids.forEach(play);}
+ document.addEventListener('visibilitychange',()=>{if(document.hidden){vids.forEach(v=>v.pause());}else if(!reduced){visible.forEach(v=>{if(!manualPaused.has(v))play(v);});}});
  sec.querySelectorAll('[data-tn-brief]').forEach(b=>b.addEventListener('click',async()=>{
   const t=b.closest('.tn-motion-body').querySelector('[data-tn-brief-text]');let ok=false;
   try{await navigator.clipboard.writeText(t.value);ok=true;}catch(_){const f=document.createElement('textarea');f.value=t.value;f.style.cssText='position:fixed;opacity:0';document.body.appendChild(f);f.select();try{ok=document.execCommand('copy');}catch(_){}f.remove();}
